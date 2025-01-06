@@ -27,6 +27,10 @@ You can configure the packet treshold in the `./config.txt` file.
 ``` bash
 sudo ./Port_scan
 ```
+### Hot to switch off
+``` bash
+vagrant halt 
+```
 ### Authors
 - Michele Armillotta [www.github.com/MicheleArmillotta]
 - Edoardo De Divitiis [www.github.com/EdoardoDd]
