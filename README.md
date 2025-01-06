@@ -27,3 +27,7 @@ You can configure the packet treshold in the `./config.txt` file.
 ``` bash
 sudo ./Port_scan
 ```
+### Authors
+- Michele Armillotta [www.github.com/MicheleArmillotta]
+- Edoardo Dediviis [www.github.com/EdoardoDd]
+- Andrea Raffaelli [www.github.com/AndreaRaffaelli]
