@@ -11,6 +11,7 @@ This repository contains a project focused on exploring the potential of eBPF (E
 Both tools demonstrate the versatility of eBPF in addressing cybersecurity challenges. While the solutions show promising results, they are experimental and have room for improvement.
 
 ### Repository Structure
+```
 The repository is organized as follows:
 .
 ├── data
@@ -23,7 +24,7 @@ The repository is organized as follows:
 ├── README.md
 ├── ssh-vagrant
 ├── Vagrantfile
-
+```
 ## DDoS mitigation and anti-scan filtering with eBPF and XDP
 
 ### How to run the project
