@@ -29,5 +29,5 @@ sudo ./Port_scan
 ```
 ### Authors
 - Michele Armillotta [www.github.com/MicheleArmillotta]
-- Edoardo Dediviis [www.github.com/EdoardoDd]
+- Edoardo De Divitiis [www.github.com/EdoardoDd]
 - Andrea Raffaelli [www.github.com/AndreaRaffaelli]
